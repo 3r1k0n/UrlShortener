@@ -7,5 +7,7 @@
   $ rails server
 ```
 
+Video demo: https://videobin.shopify.io/v/rgEBkD
+
 * Todo
   * Service classes
