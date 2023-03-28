@@ -10,4 +10,5 @@
 Video demo: https://videobin.shopify.io/v/rgEBkD
 
 * Todo
+  * Unit tests
   * Service classes
